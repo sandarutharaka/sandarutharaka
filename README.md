@@ -7,43 +7,18 @@
 ```typescript
 
 const myDetails = {
-  name: "Lakshan Rukantha",
-  title: "Self-Taught Software Engineer & DevOps Enthusiast",
+  name: "Sandaru Tharaka",
+  title: "Self-Taught Software Engineer & Mern Developer",
   university: "NSBM Green University",
-  degree: "BSc (Hons) in Software Engineering (1st Year UG)",
-  machine: "Asus Vivobook 15 - Ryzen 7",
+  degree: "BSc (Hons) in Software Engineering (3st Year UG)",
   editor: "Visual Studio Code",
-  platforms: "Web, Mobile, CLI",
-  top_tech_stacks: "JavaScript, React, MongoDB, Next.js, HTML, CSS",
-  learning_goals: "TypeScript",
+  platforms: "Web, Mobile",
+  top_tech_stacks: "JavaScript, React, MongoDB, HTML, CSS",
+  learning_goals: "MERN Developer",
   skills: "Web App Development, UI/UX Design",
   languages: "English, Sinhala, Tamil",
-  writings: [
-    {
-      name: "Medium",
-      link: "https://medium.com/@lakshanrukantha"
-    },
-    {
-      name: "Dev.to",
-      link: "https://dev.to/lakshanrukantha"
-    }
-  ],
-  hobbies: "Programming, Traveling, Photography"
-};
-
+ 
 ```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshanrukantha&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshanrukantha&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanrukantha&layout=compact&hide_border=true&theme=chartreuse-dark)
-
- </div>
-  
-<!-- Contribution Graph -->
-![Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanrukantha&theme=github-compact)
-
 <!-- Tech Stack -->
 ## 💻 Tech Stack
 
@@ -58,47 +33,13 @@ const myDetails = {
 <!-- My Projects -->
 ## 🧩 My Projects
 
-- [CeylonJobSeeker](https://ceylonjobseeker.com) (Job listing portal.)
 
-- [GitTrack](https://gittrack.vercel.app/) (Find who does not follow you on github.)
 
-- [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
-
-- [QRCodeX](https://qrcodex.netlify.app/) (QR Code scanner and generator.)
-
-- [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
-
-- [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
-
-<details>
-<summary>View More</summary>
-
-- [My Battery](https://mybattery.vercel.app/) (Real-Time battery status previewer.)
-  
-- [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
-  
-- [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
-
-- [TaskHub](https://taskhub-online.netlify.app/) (Tasks management web application.)
-
-- [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
-
-- [Lakshan Rukantha](https://lakshan-online.web.app) (Old Portfolio)
-
-</details>
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lakshanrukantha&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sandarutharaka&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Holopin Badges -->
-## 📛 Holopin Badges
-[![An image of @lakshanrukantha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshanrukantha)](https://holopin.io/@lakshanrukantha)
-
-<!-- Socials -->
-## 🌐 Socials
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17067744/lakshan-rukantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lakshanrukantha) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@CodeWithLakshan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/lakshanrukantha) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/lakshanrukantha.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lakshan_rukantha)
-<hr/>
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3124fpyq7tuttbe6xahvgfyjamku&count=1)
 
@@ -112,8 +53,8 @@ const myDetails = {
 <hr/>
 
 <!-- Status -->
-![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
-![GitHub last commit](https://img.shields.io/github/last-commit/lakshanrukantha/LakshanRukantha)<!--
+![Profile Views](https://komarev.com/ghpvc/?username=sandarutharaka)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandarutharaka/sandarutharaka)<!--
 **sandarutharaka/sandarutharaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
