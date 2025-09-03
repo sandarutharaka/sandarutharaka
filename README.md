@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;DevOps+Enthusiast;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
 
 ```typescript
 
