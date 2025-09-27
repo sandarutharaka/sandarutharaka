@@ -36,6 +36,8 @@ const myDetails = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandarutharaka&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
+[![An image of @sandarutharaka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandarutharaka)](https://holopin.io/@sandarutharaka)
+
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3124fpyq7tuttbe6xahvgfyjamku&count=1)
 
